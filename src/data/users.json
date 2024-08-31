@@ -1,0 +1,9 @@
+[
+    {
+        "name": "zesan",
+        "email": "zesan@gmail.com",
+        "password": "$2y$10$iT9CUn0JYF9uRIVU23t58uagG07vIQRcI7k1Jmpsue4FKCUr0ruTS",
+        "balance": 2500,
+        "isAdmin": false
+    }
+]

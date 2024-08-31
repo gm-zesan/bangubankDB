@@ -1,0 +1,17 @@
+[
+    {
+        "email": "zesan@gmail.com",
+        "type": "deposit",
+        "amount": "1000",
+        "date": "31 Aug 2024, 18:13:43",
+        "recipient": null,
+        "balance": null
+    },
+    {
+        "email": "zesan@gmail.com",
+        "type": "withdraw",
+        "amount": "500",
+        "date": "31 Aug 2024, 18:29:59",
+        "recipient": null
+    }
+]
